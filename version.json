@@ -1,9 +1,9 @@
 {
-  "version": "5.5.6",
-  "download_url": "https://github.com/agmcoinpro-droid/zhengce-desktop/releases/download/v5.5.6/update.zip",
+  "version": "5.5.7",
+  "download_url": "https://github.com/agmcoinpro-droid/zhengce-desktop/releases/download/v5.5.7/update.zip",
   "force_update": false,
   "min_version": "0.0.0",
-  "sha256": "2ff49c30a1ed28561806f42ad3ddfd42c14ff3dc6a12ec12934068e2fb3af0da",
-  "changelog": "证策智能体 5.5.6 更新说明\n\n【小证 AI 助手 · 金融深度思考升级】\n1. 向小证咨询黄金、白银、原油、行情、点位、止损、指标、宏观等金融/交易问题时，自动启用 DeepSeek 旗舰模型 v4-pro 深度思考模式，研判更严谨、更全面。\n2. 普通闲聊、非金融问题保持快速模型（flash 非思考），响应快、成本低。\n3. 自动交易推理（技术面 / 消息面 / 基本面三轮）保持快速模型，不影响 15 分钟推理周期。\n4. 金融深度思考的回答会显示「深度思考」标识，思考期间提示“正在分析，请稍候”。\n5. 接口升级至 DeepSeek 最新模型（flash / v4-pro），避免旧模型名 deepseek-chat 后续停用影响使用。\n\n建议及时升级。",
-  "release_date": "2026-10-19"
+  "sha256": "c774c7ace26cb6e4ce45bf9693c52b6e482ced2ea17a0811d3413f7915ddc012",
+  "changelog": "证策智能体新版本更新\n\n1. 小证金融/行情问题升级为深度思考模型，分析更全面。\n2. 新增「使用指南」，程序操作类问题本地秒答，不耗流量。\n3. 提升长期运行稳定性。\n\n建议及时升级。",
+  "release_date": "2026-10-20"
 }
