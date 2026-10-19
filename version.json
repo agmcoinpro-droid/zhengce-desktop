@@ -1,0 +1,8 @@
+{
+  "version": "5.5.0",
+  "download_url": "https://github.com/agmcoinpro-droid/zhengce-desktop/releases/download/v5.5.0/update.zip",
+  "force_update": false,
+  "min_version": "0.0.0",
+  "changelog": "证策智能体 5.5.0（自动更新基版本）\n\n1. 新增在线自动更新：以后程序有新版本会自动检测并提示更新，无需再手动传新程序；\n2. 修复做空信心阈值方向判断错误（信心低于45%应允许做空）；\n3. 修复服务单线程导致保存配置偶发失败、需要重启的问题；\n4. 提升整体运行稳定性。\n\n说明：本版本为\"自动更新基版本\"，请在每台电脑首次手动安装一次；之后所有版本将自动更新。",
+  "release_date": "2026-10-19"
+}
