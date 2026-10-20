@@ -1,9 +1,9 @@
 {
-  "version": "5.5.7",
-  "download_url": "https://github.com/agmcoinpro-droid/zhengce-desktop/releases/download/v5.5.7/update.zip",
+  "version": "5.5.9",
+  "download_url": "https://github.com/agmcoinpro-droid/zhengce-desktop/releases/download/v5.5.9/update.zip",
   "force_update": false,
   "min_version": "0.0.0",
-  "sha256": "c774c7ace26cb6e4ce45bf9693c52b6e482ced2ea17a0811d3413f7915ddc012",
-  "changelog": "证策智能体新版本更新\n\n1. 小证金融/行情问题升级为深度思考模型，分析更全面。\n2. 新增「使用指南」，程序操作类问题本地秒答，不耗流量。\n3. 提升长期运行稳定性。\n\n建议及时升级。",
+  "sha256": "5e5106b9f98c5a6fae6860b0e4537e3d79a0b60f7ca39ffb6890a91893b98aac",
+  "changelog": "证策智能体 5.5.9 版本更新\n\n1. 改为常驻运行：只有「退出程序」按钮和关闭网页会退出，后台挂起、锁屏不再影响自动交易与护盘。\n2. 修复移动止损关闭时，挂单超时/休市撤单失效的问题。\n3. 加仓间距改为「半个止损」，基准为上一笔开仓价。\n4. 日志与帮助文档校正。\n\n建议及时升级。",
   "release_date": "2026-10-20"
 }
