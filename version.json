@@ -1,9 +1,9 @@
 {
-  "version": "5.5.9",
-  "download_url": "https://github.com/agmcoinpro-droid/zhengce-desktop/releases/download/v5.5.9/update.zip",
+  "version": "5.6.0",
+  "download_url": "https://github.com/agmcoinpro-droid/zhengce-desktop/releases/download/v5.6.0/update.zip",
   "force_update": false,
   "min_version": "0.0.0",
-  "sha256": "5e5106b9f98c5a6fae6860b0e4537e3d79a0b60f7ca39ffb6890a91893b98aac",
-  "changelog": "证策智能体 5.5.9 版本更新\n\n1. 改为常驻运行：只有「退出程序」按钮和关闭网页会退出，后台挂起、锁屏不再影响自动交易与护盘。\n2. 修复移动止损关闭时，挂单超时/休市撤单失效的问题。\n3. 加仓间距改为「半个止损」，基准为上一笔开仓价。\n4. 日志与帮助文档校正。\n\n建议及时升级。",
-  "release_date": "2026-10-20"
+  "sha256": "c1dbf936744c1ed8c82d3a121d481b0645051d792daf1962273efb1d6cf2019d",
+  "changelog": "甲方案入场规则落地：市价近轨保护/布林均线纯挂单/中轨翻面/双向括号同组撤腿/C3-严共振/1d挂单12h/SLTP统一规则",
+  "release_date": "2026-10-21"
 }
