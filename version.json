@@ -1,9 +1,9 @@
 {
-  "version": "5.8.1",
-  "download_url": "https://github.com/agmcoinpro-droid/zhengce-desktop/releases/download/v5.8.1/update.zip",
+  "version": "5.8.2",
+  "download_url": "https://github.com/agmcoinpro-droid/zhengce-desktop/releases/download/v5.8.2/update.zip",
   "force_update": false,
   "min_version": "0.0.0",
-  "sha256": "574fb214651b6ba3c3c6e613e05ec281847ff0d7b9de2c78501eeaf952df3a8c",
-  "changelog": "证策智能体 5.8.1 更新内容：\n1. 容忍区阈值微调：15分钟/30分钟周期取消轨道外侧容忍区，价格越轨即观望；上一根K线收盘站稳轨道外侧时本轮同样观望（仅震荡行情生效，趋势行情不受影响）\n2. 日志显示修正：消息面突发拦截时如实显示技术面原始方向与真实拦截原因，不再误报“未达开仓阈值”\n\n建议及时升级。",
-  "release_date": "2026-11-10"
+  "sha256": "8ce33600687442c75f6393eb1ee6f4860b60c4c731f4433cbbaf8f30350aae56",
+  "changelog": "证策AI美分版 5.8.2 更新内容：\n1. 关闭单日亏损熔断：原阈值 2%（按账户余额计），在本账户余额下约等于单日亏损 1998 美元才会触发，实际长期不起作用；现将其等效关闭，不再拦截开仓。\n2. 其余逻辑与 5.8.1 完全一致，技术面/基本面/容忍区/挂单/移动止损等均未改动。\n\n建议及时升级。",
+  "release_date": "2026-11-12"
 }
