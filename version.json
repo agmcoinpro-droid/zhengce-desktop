@@ -3,7 +3,7 @@
   "download_url": "https://github.com/agmcoinpro-droid/zhengce-desktop/releases/download/v5.8.4/update.zip",
   "force_update": false,
   "min_version": "0.0.0",
-  "sha256": "d619ea37a7ac1696c632b5c5d70d28971c57a58e39616fc4603f3cf8a8750ef4",
+  "sha256": "cc7407125a386606daf2a789c941e2c14999b39d7f66f2e36d653f03eb71910f",
   "changelog": "证策AI美分版 5.8.4 更新：\n1. 更新初始化提示，不再将实际返回的K线条数作为文案显示。\n2. 品种适配提示统一改为“本账户为黄金品种，已自动切换”。\n仅更新显示文案，行情读取、品种适配和交易逻辑不变。",
   "release_date": "2026-11-22"
 }
