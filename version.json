@@ -1,9 +1,9 @@
 {
-  "version": "5.8.3",
-  "download_url": "https://github.com/agmcoinpro-droid/zhengce-desktop/releases/download/v5.8.3/update.zip",
+  "version": "5.8.4",
+  "download_url": "https://github.com/agmcoinpro-droid/zhengce-desktop/releases/download/v5.8.4/update.zip",
   "force_update": false,
   "min_version": "0.0.0",
   "sha256": "d619ea37a7ac1696c632b5c5d70d28971c57a58e39616fc4603f3cf8a8750ef4",
-  "changelog": "证策AI美分版 5.8.3 更新内容：\n1. 新订单备注统一显示为“证策智能体”，数字ID不变；旧挂单备注仍能识别周期，重启后按原周期恢复有效期。\n2. 周一至周五按北京时间 06:00 至 07:00 暂停自动推理，07:01 恢复，并按原设置的推理间隔继续。\n3. 若自动推理跨过停盘时段，会停止后续分析和自动新开仓；手动操作、平仓以及持仓/挂单监控继续运行。",
+  "changelog": "证策AI美分版 5.8.4 更新：\n1. 更新初始化提示，不再将实际返回的K线条数作为文案显示。\n2. 品种适配提示统一改为“本账户为黄金品种，已自动切换”。\n仅更新显示文案，行情读取、品种适配和交易逻辑不变。",
   "release_date": "2026-11-22"
 }
