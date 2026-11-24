@@ -1,9 +1,9 @@
 {
-  "version": "5.8.4",
-  "download_url": "https://github.com/agmcoinpro-droid/zhengce-desktop/releases/download/v5.8.4/update.zip",
+  "version": "5.8.5",
+  "download_url": "https://github.com/agmcoinpro-droid/zhengce-desktop/releases/download/v5.8.5/update.zip",
   "force_update": false,
   "min_version": "0.0.0",
-  "sha256": "cc7407125a386606daf2a789c941e2c14999b39d7f66f2e36d653f03eb71910f",
-  "changelog": "证策AI美分版 5.8.4 更新：\n1. 更新初始化提示，不再将实际返回的K线条数作为文案显示。\n2. 品种适配提示统一改为“本账户为黄金品种，已自动切换”。\n仅更新显示文案，行情读取、品种适配和交易逻辑不变。",
-  "release_date": "2026-11-22"
+  "sha256": "7450ec2fd636995fbf445bbbe4c1680cf0f1e85686f999490e65e3547bc30eb0",
+  "changelog": "证策AI美分版 5.8.5 更新内容：\n1. 趋势判定新增「回撤退出」（仅1小时主周期启用）：价格自近6根最高点回撤达1.2倍ATR、连续2根收盘确认时，退出趋势回到震荡，并抑制原方向重判（须重新创新高/新低才恢复趋势）。解决此前行情见顶后长达十余小时仍判定多头趋势、期间逆势挂回调多单的问题。\n2. 历史实测：同类行情下趋势退出从约8根K线（9小时）提前至4根（5小时），假退出率与标签质量持平。\n3. 15分钟/30分钟/4小时/日线判定不变；打分、基本面、挂单、止盈止损、移动止损等其余逻辑均未改动。\n4. 参数可调：zhengce_state.json 中 regime_dd_atr_k_1h（默认1.2）、regime_dd_confirm（默认2）、regime_dd_win（默认6）。\n\n建议及时升级。",
+  "release_date": "2026-11-24"
 }
